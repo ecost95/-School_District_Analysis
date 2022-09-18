@@ -14,7 +14,7 @@ When 9th graders were removed, the district summary was affected:
 - District Summary with Thomas 9th graders removed:
   ![Old District Summary](https://raw.githubusercontent.com/ecost95/-School_District_Analysis/main/NewDistrictSummary.png)
   
-  - As we can see in the photos, when 9th graders from Thomas High School were removed, the overall passing percent and passing math percent were lowered, while the percent passing reading increased. 
+- As we can see in the photos, when 9th graders from Thomas High School were removed, the overall passing percent and passing math percent were lowered, while the percent passing reading increased. 
   
 ### How is the school summary affected?
 When 9th graders were removed, the schools summary was affected:
@@ -40,8 +40,13 @@ When we replaced the 9th graders scores with only the 10-12th graders scores, th
   
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
-  - The math and reading scores by grade are increased, with 
-
+  
+  - Initial math and reading scores:
+   ![9th Math/Readingin initial](https://raw.githubusercontent.com/ecost95/-School_District_Analysis/main/_mathreadingininit.png)
+   
+   - Math and reading scores with THS 9th graders removed:
+   ![9th Math Reading Chal](https://raw.githubusercontent.com/ecost95/-School_District_Analysis/main/_MathReadingChal.png)
+   
 - Scores by school spending
   - School spending is
   
