@@ -33,9 +33,9 @@ When we replaced the 9th graders scores with only the 10-12th graders scores, th
  - School summary 9th graders replaced:
  ![School Summary 9th grade replaced](https://github.com/ecost95/-School_District_Analysis/blob/main/THS_10_12_DF.png)
  
- - When 9th graders were replaced, we can see that the scores increased from our new school summary above, but is still lower than the initial school summary with THS 9th grader scores included. This puts Thomas High School as one of the top schools in the dirstrict:
-
- - Thomas High School is now in the top performing schools:
+ - When 9th graders were replaced, we can see that the scores increased from our new school summary above, but are slighty lower than the initial school summary with THS 9th grader scores included. The new scores for THS: 93.19% passing math, 97.02 passing reading, 90.63 passing overall. 
+ 
+ - Thomas High School remains one of the top schools in the district:
   ![New Top Performing Schools](https://github.com/ecost95/-School_District_Analysis/blob/main/HighLowPerformingNew.png)
   
 ### How does replacing the ninth-grade scores affect the following:
@@ -48,12 +48,15 @@ When we replaced the 9th graders scores with only the 10-12th graders scores, th
    ![9th Math Reading Chal](https://raw.githubusercontent.com/ecost95/-School_District_Analysis/main/_MathReadingChal.png)
    
 - Scores by school spending
-  - School spending is
+ 
   
 - Scores by school size
-  - Scores by school size are 
+  
   
 - Scores by school type
-  - Scores by school type are 
+  - After replacing the 9th grade test scores, the changes to the scores by school size were to small to change the overall percentages. When rounded to the nearest hundredth, both analyses had the same summaries:
+  ![Scores by school size](https://raw.githubusercontent.com/ecost95/-School_District_Analysis/main/Screenshot%20(125).png)
   
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+Although the percent passing percentages for Thomas High School are slightly lower when the 9th grade test scores are replaced with NaNs, the changes are so small that they are statistically insignificant. They do not affect THS performance relative to other schools, and the overall averages for charter schools remains the same. We would expect a larger change to the overall sumarries if there was academic dishonesty.
